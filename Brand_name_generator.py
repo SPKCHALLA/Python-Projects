@@ -10,4 +10,3 @@ pet_name = input()
 print("Your Brand name is\n"+city_name+" "+pet_name)
 #5. Make sure the input cursor shows on a new line:
 print("\n")
-# Solution: https://replit.com/@appbrewery/band-name-generator-end
